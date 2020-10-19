@@ -1,3 +1,3 @@
 if is_synapse_function then
-        messagebox("Roblox X is not currently updated!",0)
+        messagebox("Roblox X is not currently updated \n \n \nPlease wait until the script updates","Stellar's Script",0)
     end
